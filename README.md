@@ -52,7 +52,7 @@ Website ini bertujuan untuk mendokumentasikan, mempublikasikan, dan memudahkan a
 
 1. **Klon repositori ini:**
     ```bash
-    git clone https://github.com/USERNAME/REPO-NAME.git
+    git clone https://github.com/ppkormawakamadiksiudinus/web-mobile.git
     ```
 2. **Buka `index.html` di browser** (tidak butuh server khusus).
 3. Jika ingin mengedit presensi, update URL Google Apps Script pada file `script.js`.
