@@ -76,5 +76,3 @@ Silakan fork repo ini, lalu buat PR jika ingin menambah/merapikan konten.
 © 2025 PPKO KAMADIKSI UDINUS  
 Hak cipta dilindungi.  
 Untuk penggunaan non-komersial, edukasi, dan sosial.
-## 📂 Struktur Direktori
-
