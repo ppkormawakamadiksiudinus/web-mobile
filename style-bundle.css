@@ -1,7 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=REM:ital@0;1&display=swap');
+
+.rem-uniquifier {
+  font-family: "REM", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'REM', sans-serif;
   scroll-behavior: smooth;
   overflow-x: hidden;
 }
